@@ -1,0 +1,23 @@
+.neum {
+    margin: 0;
+}
+.deno {
+    margin: 0;
+    border-top: 0.05em solid;
+}
+.frac{
+    display: inline-block;
+    overflow:hidden;
+    text-align: center;
+}
+.foo {
+    border-bottom: 0.2em solid transparent;
+}
+equ {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.sqrt {
+    border-top: 1px solid;
+}
